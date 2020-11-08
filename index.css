@@ -1,0 +1,40 @@
+body{
+     background-color: royalblue;
+     background-image: C:\Users\abhi\Desktop\likhit codes\photo-1550645612-83f5d594b671.jpg;
+      
+}
+
+
+.title{
+     color:rgb(6, 6, 61);
+ }
+ .subtitle{
+      color:red;
+ }
+ #contact-me{
+      color:yellow;
+ }
+ #service{
+      color:green;
+ }
+ input~button{
+      color:orange;
+ }
+ #likhit{
+      color: rgb(105, 0, 0);
+ }
+  .google{ 
+      color:white
+ }
+ #GOOGLE-LINK:LINK{ 
+     color:#3300ff;
+}
+textarea~button{
+     color:red;
+}
+.ohhhhhh{
+     color:#eb3434;
+}
+.passage{
+     color:#42f5aa;
+}
